@@ -3,6 +3,7 @@ Sa se scrie o aplicatie care pentru o gramatica generativa IDC G construieste
 un automat push-down M = (Q, Σ, Γ, δ, q0, Z0, ∅), pentru care T(M) = L(G).
 
 In functia principala se citeste din fisier o gramatica IDC. Se verifica daca gramatica este valida si IDC. Numai in caz afirmativ se obtine APD-ul corespunzator si devine activ meniul urmator:
+
 (a) afisarea gramaticii G
 (b) generarea unui cuvânt în gramatica
 (c) afisarea rezultatului gramaticii simplificate
